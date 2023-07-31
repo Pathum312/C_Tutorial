@@ -17,6 +17,16 @@ namespace ConsoleAppTut
             // Console.WriteLine(" /  |");
             // Console.WriteLine("/___|");
             // Console.ReadLine();
+
+            // 3. Variables
+            string playerName = "Rehan";
+            int playerAge = 30;
+
+            Console.WriteLine("There once was a man named " + playerName + ".");
+            Console.WriteLine("He was " + playerAge + " years old.");
+            Console.WriteLine("He really liked the name " + playerName + ".");
+            Console.WriteLine("But didn't like being " + playerAge + ".");
+            Console.ReadLine();
         }
     }
 }
