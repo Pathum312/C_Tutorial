@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\ConsoleAppTut.csproj": {}
+    "C:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\ConsoleAppTut.csproj": {}
   },
   "projects": {
-    "c:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\ConsoleAppTut.csproj": {
+    "C:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\ConsoleAppTut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\ConsoleAppTut.csproj",
+        "projectUniqueName": "C:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\ConsoleAppTut.csproj",
         "projectName": "ConsoleAppTut",
-        "projectPath": "c:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\ConsoleAppTut.csproj",
+        "projectPath": "C:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\ConsoleAppTut.csproj",
         "packagesPath": "C:\\Users\\pathu\\.nuget\\packages\\",
-        "outputPath": "c:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\obj\\",
+        "outputPath": "C:\\Tutorials\\C#\\C_Tutorial\\ConsoleAppTut\\ConsoleAppTut\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pathu\\AppData\\Roaming\\NuGet\\NuGet.Config"

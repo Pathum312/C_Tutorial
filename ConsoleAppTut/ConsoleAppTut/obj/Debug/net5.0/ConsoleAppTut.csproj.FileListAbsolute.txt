@@ -1,0 +1,16 @@
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\bin\Debug\net5.0\ConsoleAppTut.exe
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\bin\Debug\net5.0\ConsoleAppTut.deps.json
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\bin\Debug\net5.0\ConsoleAppTut.runtimeconfig.json
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\bin\Debug\net5.0\ConsoleAppTut.runtimeconfig.dev.json
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\bin\Debug\net5.0\ConsoleAppTut.dll
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\bin\Debug\net5.0\ref\ConsoleAppTut.dll
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\bin\Debug\net5.0\ConsoleAppTut.pdb
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ConsoleAppTut.csproj.AssemblyReference.cache
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ConsoleAppTut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ConsoleAppTut.AssemblyInfoInputs.cache
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ConsoleAppTut.AssemblyInfo.cs
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ConsoleAppTut.csproj.CoreCompileInputs.cache
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ConsoleAppTut.dll
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ref\ConsoleAppTut.dll
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ConsoleAppTut.pdb
+C:\Tutorials\C#\C_Tutorial\ConsoleAppTut\ConsoleAppTut\obj\Debug\net5.0\ConsoleAppTut.genruntimeconfig.cache
