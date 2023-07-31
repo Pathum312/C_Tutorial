@@ -7,7 +7,7 @@ namespace ConsoleAppTut
     {
         static void Main(string[] args)
         {
-            // 1. Basic print out function.
+            // 1. Basic print out function
             // Console.WriteLine("Hello World!");
             // Console.ReadLine(); // This stops the console from closing after excuting the print out function.
 
@@ -29,21 +29,30 @@ namespace ConsoleAppTut
             // Console.ReadLine();
 
             // 4. Datatypes
-            string statement = "\"This is a sentence.\"";
-            char classification = 'A';
-            int age = 21;
-            double gpa = 3.7;
-            bool isDead = false;
+            // string statement = "\"This is a sentence.\"";
+            // char classification = 'A';
+            // int age = 21;
+            // double gpa = 3.7;
+            // bool isDead = false;
 
-            Console.WriteLine(
-                "{\nstatement: " + statement +
-                ",\nclassification: " + classification +
-                ",\nage: " + age +
-                ",\ngpa: " + gpa +
-                ",\nisDead: " + isDead +
-                "\n}"
-            );
-            Console.ReadLine();
+            // Console.WriteLine(
+            //     "{\nstatement: " + statement +
+            //     ",\nclassification: " + classification +
+            //     ",\nage: " + age +
+            //     ",\ngpa: " + gpa +
+            //     ",\nisDead: " + isDead +
+            //     "\n}"
+            // );
+            // Console.ReadLine();
+
+            // 5. Gettings user inputs
+            // Console.Write("Enter your name:\n");
+            // string name = Console.ReadLine();
+
+            // Console.WriteLine("\nHello " + name + "!");
+            // Console.ReadLine();
+
+            // 6. Building a calculator
         }
     }
 }
