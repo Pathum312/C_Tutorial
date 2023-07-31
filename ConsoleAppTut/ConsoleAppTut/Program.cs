@@ -52,7 +52,40 @@ namespace ConsoleAppTut
             // Console.WriteLine("\nHello " + name + "!");
             // Console.ReadLine();
 
-            // 6. Building a calculator
+            // 6. Guessing Game
+            GuessGame();
+        }
+
+        static void GuessGame()
+        {
+            string secretWord = "game";
+            string guess = "";
+            int noOfGuesses = 3;
+            bool outOfGuesses = false;
+
+            while (guess != secretWord && !outOfGuesses)
+            {
+                if (noOfGuesses != 0)
+                {
+                    Console.Write("Guess the word:\n");
+                    guess = Console.ReadLine().ToString();
+                    noOfGuesses--;
+                    if (guess != secretWord) Console.WriteLine("Word is incorrect! Try again...\n");
+                }
+                else
+                {
+                    outOfGuesses = true;
+                }
+            }
+
+            if (outOfGuesses)
+            {
+                Console.WriteLine("Out of guesses!");
+            }
+            else
+            {
+                Console.WriteLine("\nYou win!");
+            }
         }
     }
 }
